@@ -1,5 +1,3 @@
-# Advent of Code
+# Advent of Code 2024
 
-Just me trying to casually participate on this yearly December challenges.
-
-To check out my solutions for each year. Please check the `branches` they are separated by year.
+me dont know how to use Golang (yet)
